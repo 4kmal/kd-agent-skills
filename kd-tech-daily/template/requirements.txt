@@ -1,0 +1,9 @@
+kokoro-onnx>=0.4
+misaki[en]>=0.9
+soundfile
+scipy
+numpy
+pillow
+# optional: Whisper pronunciation check (tools/vo_check.py)
+# faster-whisper
+# num2words

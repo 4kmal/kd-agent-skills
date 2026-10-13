@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+models/
+vo/*.onnx
+vo/*.bin
+vo/clips/
+out/
+snaps*/
+*.mp4

@@ -1,0 +1,59 @@
+{
+ "voices": {
+  "kopi": "af_heart"
+ },
+ "base_speed": {
+  "kopi": 1.1
+ },
+ "lines": [
+  {
+   "id": "open",
+   "speaker": "kopi",
+   "start": 5.1,
+   "max": 5.6,
+   "text": "Good morning, Kracked Devs! It's Wednesday, October fourteenth. I'm Kopi, and today is all about agent skills."
+  },
+  {
+   "id": "s1",
+   "speaker": "kopi",
+   "start": 11.35,
+   "max": 12.3,
+   "text": "First up: Agent Skills is now an open standard. Anthropic built the format, just a folder with a SKILL dot MD file, and a growing list of agent products can load it."
+  },
+  {
+   "id": "s2",
+   "speaker": "kopi",
+   "start": 24.35,
+   "max": 12.3,
+   "text": "Installing them is one line now. Vercel's skills tool runs with npx skills add, pulls any skill straight from GitHub, and supports Claude Code, Codex, Cursor and seventy-five more agents."
+  },
+  {
+   "id": "s3",
+   "speaker": "kopi",
+   "start": 37.35,
+   "max": 12.3,
+   "text": "Supabase shipped two official skills. One covers the whole platform, from auth and storage to edge functions. The other is a Postgres best-practices guide for schemas, indexes and security."
+  },
+  {
+   "id": "s4",
+   "speaker": "kopi",
+   "start": 50.35,
+   "max": 12.3,
+   "text": "For explainers, there's Anatomy. Describe an idea in one line, and it invents a machine that works the same way, drawn as a live isometric figure. A message queue becomes a marble run."
+  },
+  {
+   "id": "s5",
+   "speaker": "kopi",
+   "start": 63.35,
+   "max": 12.3,
+   "text": "Finally, Cadu puts your self-hosted Hermes agent on iPhone. Scan a QR code to connect, then chat, manage files and follow what it's doing. It's in TestFlight beta right now."
+  },
+  {
+   "id": "out",
+   "speaker": "kopi",
+   "start": 76.6,
+   "max": 6.0,
+   "text": "That's the diff for today. Every skill is on the wiki. Now go build something!"
+  }
+ ]
+}
